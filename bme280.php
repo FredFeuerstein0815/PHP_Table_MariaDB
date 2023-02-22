@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
 <head>
 <meta charset="utf-8"/>
+<title>Temperatur, Luftdruck und Luftfeuchtigkeit vom BME280</title>
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="pragma" content="no-cache" />
 <meta http-equiv="expires" content="-1" />
