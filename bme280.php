@@ -1,3 +1,11 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="refresh" content="1800; URL=bme280.php" />
+</head>
 <?php
 echo "<table style='border: solid 3px black; width:100%; text-align:center;'>";
 echo "<tr><th colspan='4'; style='border: solid 3px black; width:25%; text-align:center;'>BME280</th></tr>";
@@ -46,3 +54,4 @@ $conn = null;
 
 echo "</table>";
 ?>
+</html>
