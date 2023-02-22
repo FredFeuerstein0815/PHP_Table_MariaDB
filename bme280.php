@@ -11,7 +11,7 @@
 <?php
 echo "<table style='border: solid 3px black; width:100%; text-align:center;'>";
 echo "<tr><th colspan='4'; style='border: solid 3px black; width:25%; text-align:center;'>BME280</th></tr>";
-echo "<tr><th style='border: solid 3px grey; width:25%; text-align:center;'>°C</th><th style='border: solid 3px grey; width:25%; text-align:center;'>%</th><th style='border: solid 3px grey; width:25%; text-align:center;'>hPa</th><th style='border: solid 3px grey; width:25%; text-align:center;'>Meßzeit</th></tr>";
+echo "<tr><th style='border: solid 3px grey; width:25%; text-align:center;'>°C</th><th style='border: solid 3px grey; width:25%; text-align:center;'>%</th><th style='border: solid 3px grey; width:25%; text-align:center;'>hPa</th><th style='border: solid 3px grey; width:25%; text-align:center;'>gemessen</th></tr>";
 
 class TableRows1 extends RecursiveIteratorIterator {
   function __construct($it) {
